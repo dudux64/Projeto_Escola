@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/xXrEN5vv1hYYJ0rMg8G6dTDJeYFCo6iNzxujtOug9g=",
+  "Hash": "nIYyW/GprRuF5LIk2UV94Vzv2sR44Pn3X1V9+za8CGA=",
   "Source": "Projeto_Escola",
   "BasePath": "_content/Projeto_Escola",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\62127702024.2\\Documents\\GitHub\\Projeto_Escola\\Projeto_Escola\\wwwroot\\images\\logo-saint-john.png",
+      "SourceId": "Projeto_Escola",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\62127702024.2\\Documents\\GitHub\\Projeto_Escola\\Projeto_Escola\\wwwroot\\",
+      "BasePath": "_content/Projeto_Escola",
+      "RelativePath": "images/logo-saint-john.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo-saint-john.png"
     },
     {
       "Identity": "C:\\Users\\62127702024.2\\Documents\\GitHub\\Projeto_Escola\\Projeto_Escola\\wwwroot\\js\\site.js",

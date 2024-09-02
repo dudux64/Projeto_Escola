@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\62127702024.2\\Documents\\GitHub\\Projeto_Escola\\Projeto_Escola\\wwwroot\\images\\logo-saint-john.png",
+      "PackagePath": "staticwebassets\\images\\logo-saint-john.png"
+    },
+    {
       "Id": "C:\\Users\\62127702024.2\\Documents\\GitHub\\Projeto_Escola\\Projeto_Escola\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
