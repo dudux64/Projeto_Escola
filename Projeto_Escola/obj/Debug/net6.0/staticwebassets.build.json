@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nIYyW/GprRuF5LIk2UV94Vzv2sR44Pn3X1V9+za8CGA=",
+  "Hash": "E24/T0MsRaKdXDW0KCXf0jltChXRwMRXVyOh9Y0beDA=",
   "Source": "Projeto_Escola",
   "BasePath": "_content/Projeto_Escola",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\62127702024.2\\Documents\\GitHub\\Projeto_Escola\\Projeto_Escola\\wwwroot\\images\\banner-home-1.jpg",
+      "SourceId": "Projeto_Escola",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\62127702024.2\\Documents\\GitHub\\Projeto_Escola\\Projeto_Escola\\wwwroot\\",
+      "BasePath": "_content/Projeto_Escola",
+      "RelativePath": "images/banner-home-1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\banner-home-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\62127702024.2\\Documents\\GitHub\\Projeto_Escola\\Projeto_Escola\\wwwroot\\images\\banner-home-2.jpg",
+      "SourceId": "Projeto_Escola",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\62127702024.2\\Documents\\GitHub\\Projeto_Escola\\Projeto_Escola\\wwwroot\\",
+      "BasePath": "_content/Projeto_Escola",
+      "RelativePath": "images/banner-home-2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\banner-home-2.jpg"
     },
     {
       "Identity": "C:\\Users\\62127702024.2\\Documents\\GitHub\\Projeto_Escola\\Projeto_Escola\\wwwroot\\images\\logo-saint-john.png",
