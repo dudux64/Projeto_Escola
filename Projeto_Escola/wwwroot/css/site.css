@@ -14,9 +14,37 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    font-family: "Work Sans", Arial, sans-serif;
 }
 /* Cor Do header Superior */
 .bg-primary {
     background: #005a82 !important;
+}
+/* Hover  do header */
+header .navbar li a {
+    font-size: 16px;
+    color: #fff;
+    background: none;
+    padding: 20px 10px;
+    padding-bottom: 15px;
+    border-bottom: 5px solid;
+    border-color: transparent;
+}
+
+    header .navbar li a:hover {
+        background: none;
+        border-color: #2850F0;
+    }
+
+/* Mudança no Header */
+.navbar .container .navbar-collapse .nav-item {
+    font-size: 15px;
+    padding-top: 2.3rem;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-weight: 400;
+    color: #000000;
+    opacity: 1 !important;
 }
