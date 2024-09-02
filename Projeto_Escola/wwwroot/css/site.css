@@ -17,6 +17,8 @@ body {
   margin-bottom: 60px;
 }
 /* Cor Do header Superior */
-.bg-primary {
-    background: #005a82 !important;
+footer {
+    background-color: grey;
+   
 }
+
