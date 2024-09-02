@@ -48,3 +48,8 @@ header .navbar li a {
     color: #000000;
     opacity: 1 !important;
 }
+
+footer{
+    background-color: grey;
+}
+
