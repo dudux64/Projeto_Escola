@@ -49,4 +49,26 @@ header .navbar li a {
     opacity: 1 !important;
 }
 
+.hero-wrap-2 {
+    height: 400px; /* Ajuste a altura conforme necessário */
+    background-image: url('images/banner-contatos.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center; /* Alinha verticalmente ao centro */
+    justify-content: center; /* Alinha horizontalmente ao centro */
+    position: relative;
+    color:white;
+}
 
+
+
+
+.hero-wrap .bread {
+    font-size: 2rem; /* Ajuste o tamanho da fonte conforme necessário */
+}
+
+.hero-wrap .breadcrumbs {
+    font-size: 1rem; /* Ajuste o tamanho da fonte conforme necessário */
+}

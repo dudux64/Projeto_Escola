@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "E24/T0MsRaKdXDW0KCXf0jltChXRwMRXVyOh9Y0beDA=",
+  "Hash": "+lvA0idaAW0yCJGkevgVR0nlvN7ZkHk2Wmf591u2ZaU=",
   "Source": "Projeto_Escola",
   "BasePath": "_content/Projeto_Escola",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\62127702024.2\\Documents\\GitHub\\Projeto_Escola\\Projeto_Escola\\wwwroot\\images\\banner-contatos.jpg",
+      "SourceId": "Projeto_Escola",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\62127702024.2\\Documents\\GitHub\\Projeto_Escola\\Projeto_Escola\\wwwroot\\",
+      "BasePath": "_content/Projeto_Escola",
+      "RelativePath": "images/banner-contatos.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\banner-contatos.jpg"
     },
     {
       "Identity": "C:\\Users\\62127702024.2\\Documents\\GitHub\\Projeto_Escola\\Projeto_Escola\\wwwroot\\images\\banner-home-1.jpg",
