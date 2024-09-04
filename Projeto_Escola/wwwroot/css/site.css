@@ -72,3 +72,8 @@ header .navbar li a {
 .hero-wrap .breadcrumbs {
     font-size: 1rem; /* Ajuste o tamanho da fonte conforme necessário */
 }
+
+.texto {
+    font-size: 22px;
+    font-stretch: extra-condensed;
+}
