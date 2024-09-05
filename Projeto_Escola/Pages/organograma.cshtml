@@ -1,6 +1,8 @@
 ﻿@page
-@model Projeto_Escola.Pages.organogramaModel
+@model Projeto_Escola.Pages.ProfessoresModel
 @{
+	ViewData["Title"] = "Professores em Destaque";
+	var professores = Model.Professores;  // Acessando a lista de professores a partir do modelo
 }
 <main id="content" role="main">
 	<div class="container">
@@ -65,3 +67,79 @@
 	</div>
 
 </main>
+
+<div class="container mt-4">
+    <h2>Professores em Destaque</h2>
+    <div class="row mt-4">
+        @for (int i = 0; i < professores.Count; i++)
+        {
+            var professor = professores[i];
+            <div class="col-md-4 mb-4">
+                <div class="professor-card">
+                    <img src="@professor.FotoUrl" class="img-fluid professor-image" alt="@professor.Nome">
+                    <div class="professor-details p-3">
+                        <h5>@professor.Nome</h5>
+                        <p><strong>Disciplina:</strong> @professor.Disciplina</p>
+                        <p><strong>Experiência:</strong> @professor.ExperienciaAnos anos</p>
+                        <p><strong>Email:</strong> @professor.Email</p>
+                        <a href="/DetalhesProfessor/@(i+1)" class="btn btn-details">Mais detalhes</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<style>
+    body {
+        background-color: #f8f9fa;
+    }
+
+    .professor-card {
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        transition: 0.3s;
+        border-radius: 10px;
+        background-color: #fff;
+        overflow: hidden; /* Certifica que o conteúdo dentro do card não ultrapasse os limites */
+    }
+
+    .professor-card img.professor-image {
+        width: 100%;
+        height: 300px;
+        object-fit: cover; /* Garante que a imagem cubra todo o espaço sem distorção */
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+    }
+
+    .professor-card:hover {
+        box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+    }
+
+    .professor-details {
+        padding: 15px;
+    }
+
+    .professor-details h5 {
+        font-weight: bold;
+        color: #6c63ff;
+    }
+
+    .professor-details p {
+        margin: 0;
+        color: #555;
+    }
+
+    .btn-details {
+        background-color: #6c63ff;
+        color: #fff;
+        border-radius: 20px;
+        padding: 5px 15px;
+        font-weight: bold;
+        transition: background-color 0.3s ease;
+    }
+
+    .btn-details:hover {
+        background-color: #5a52e0;
+        color: #fff;
+    }
+</style>

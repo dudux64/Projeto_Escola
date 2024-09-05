@@ -37,6 +37,18 @@
       "PackagePath": "staticwebassets\\images\\logo-saint-john.png"
     },
     {
+      "Id": "C:\\Users\\62127702024.2\\Documents\\GitHub\\Projeto_Escola\\Projeto_Escola\\wwwroot\\images\\professor1.jpg",
+      "PackagePath": "staticwebassets\\images\\professor1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\62127702024.2\\Documents\\GitHub\\Projeto_Escola\\Projeto_Escola\\wwwroot\\images\\professor2.jpg",
+      "PackagePath": "staticwebassets\\images\\professor2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\62127702024.2\\Documents\\GitHub\\Projeto_Escola\\Projeto_Escola\\wwwroot\\images\\professor3.jpg",
+      "PackagePath": "staticwebassets\\images\\professor3.jpg"
+    },
+    {
       "Id": "C:\\Users\\62127702024.2\\Documents\\GitHub\\Projeto_Escola\\Projeto_Escola\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
