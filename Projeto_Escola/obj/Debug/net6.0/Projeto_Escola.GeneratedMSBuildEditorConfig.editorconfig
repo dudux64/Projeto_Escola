@@ -9,53 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Projeto_Escola
 build_property.RootNamespace = Projeto_Escola
-build_property.ProjectDir = C:\Users\62127702024.2\Documents\GitHub\Projeto_Escola\Projeto_Escola\
+build_property.ProjectDir = C:\Users\Pichau\OneDrive\Documentos\GitHub\Projeto_Escola\Projeto_Escola\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\62127702024.2\Documents\GitHub\Projeto_Escola\Projeto_Escola
+build_property.MSBuildProjectDirectory = C:\Users\Pichau\OneDrive\Documentos\GitHub\Projeto_Escola\Projeto_Escola
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/62127702024.2/Documents/GitHub/Projeto_Escola/Projeto_Escola/Pages/Contato.cshtml]
+[C:/Users/Pichau/OneDrive/Documentos/GitHub/Projeto_Escola/Projeto_Escola/Pages/Contato.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGF0by5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/62127702024.2/Documents/GitHub/Projeto_Escola/Projeto_Escola/Pages/diferenciais.cshtml]
+[C:/Users/Pichau/OneDrive/Documentos/GitHub/Projeto_Escola/Projeto_Escola/Pages/diferenciais.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGlmZXJlbmNpYWlzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/62127702024.2/Documents/GitHub/Projeto_Escola/Projeto_Escola/Pages/Error.cshtml]
+[C:/Users/Pichau/OneDrive/Documentos/GitHub/Projeto_Escola/Projeto_Escola/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/62127702024.2/Documents/GitHub/Projeto_Escola/Projeto_Escola/Pages/Index.cshtml]
+[C:/Users/Pichau/OneDrive/Documentos/GitHub/Projeto_Escola/Projeto_Escola/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/62127702024.2/Documents/GitHub/Projeto_Escola/Projeto_Escola/Pages/localizacao.cshtml]
+[C:/Users/Pichau/OneDrive/Documentos/GitHub/Projeto_Escola/Projeto_Escola/Pages/localizacao.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9jYWxpemFjYW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/62127702024.2/Documents/GitHub/Projeto_Escola/Projeto_Escola/Pages/organograma.cshtml]
+[C:/Users/Pichau/OneDrive/Documentos/GitHub/Projeto_Escola/Projeto_Escola/Pages/organograma.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcb3JnYW5vZ3JhbWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/62127702024.2/Documents/GitHub/Projeto_Escola/Projeto_Escola/Pages/Privacy.cshtml]
+[C:/Users/Pichau/OneDrive/Documentos/GitHub/Projeto_Escola/Projeto_Escola/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/62127702024.2/Documents/GitHub/Projeto_Escola/Projeto_Escola/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Pichau/OneDrive/Documentos/GitHub/Projeto_Escola/Projeto_Escola/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/62127702024.2/Documents/GitHub/Projeto_Escola/Projeto_Escola/Pages/_ViewImports.cshtml]
+[C:/Users/Pichau/OneDrive/Documentos/GitHub/Projeto_Escola/Projeto_Escola/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/62127702024.2/Documents/GitHub/Projeto_Escola/Projeto_Escola/Pages/_ViewStart.cshtml]
+[C:/Users/Pichau/OneDrive/Documentos/GitHub/Projeto_Escola/Projeto_Escola/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/62127702024.2/Documents/GitHub/Projeto_Escola/Projeto_Escola/Pages/Shared/_Layout.cshtml]
+[C:/Users/Pichau/OneDrive/Documentos/GitHub/Projeto_Escola/Projeto_Escola/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-04skcu2qw5

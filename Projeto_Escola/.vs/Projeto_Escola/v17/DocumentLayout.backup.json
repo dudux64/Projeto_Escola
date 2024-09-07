@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pichau\\OneDrive\\Documentos\\GitHub\\Projeto_Escola\\Projeto_Escola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77DE5732-5798-4FF2-8E3A-C1D5DB54A9D5}|Projeto_Escola.csproj|c:\\users\\pichau\\onedrive\\documentos\\github\\projeto_escola\\projeto_escola\\pages\\organograma.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77DE5732-5798-4FF2-8E3A-C1D5DB54A9D5}|Projeto_Escola.csproj|solutionrelative:pages\\organograma.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DE5732-5798-4FF2-8E3A-C1D5DB54A9D5}|Projeto_Escola.csproj|c:\\users\\pichau\\onedrive\\documentos\\github\\projeto_escola\\projeto_escola\\pages\\contato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77DE5732-5798-4FF2-8E3A-C1D5DB54A9D5}|Projeto_Escola.csproj|solutionrelative:pages\\contato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DE5732-5798-4FF2-8E3A-C1D5DB54A9D5}|Projeto_Escola.csproj|c:\\users\\pichau\\onedrive\\documentos\\github\\projeto_escola\\projeto_escola\\pages\\diferenciais.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77DE5732-5798-4FF2-8E3A-C1D5DB54A9D5}|Projeto_Escola.csproj|solutionrelative:pages\\diferenciais.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DE5732-5798-4FF2-8E3A-C1D5DB54A9D5}|Projeto_Escola.csproj|c:\\users\\pichau\\onedrive\\documentos\\github\\projeto_escola\\projeto_escola\\pages\\localizacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77DE5732-5798-4FF2-8E3A-C1D5DB54A9D5}|Projeto_Escola.csproj|solutionrelative:pages\\localizacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DE5732-5798-4FF2-8E3A-C1D5DB54A9D5}|Projeto_Escola.csproj|c:\\users\\pichau\\onedrive\\documentos\\github\\projeto_escola\\projeto_escola\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77DE5732-5798-4FF2-8E3A-C1D5DB54A9D5}|Projeto_Escola.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DE5732-5798-4FF2-8E3A-C1D5DB54A9D5}|Projeto_Escola.csproj|c:\\users\\pichau\\onedrive\\documentos\\github\\projeto_escola\\projeto_escola\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{77DE5732-5798-4FF2-8E3A-C1D5DB54A9D5}|Projeto_Escola.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DE5732-5798-4FF2-8E3A-C1D5DB54A9D5}|Projeto_Escola.csproj|c:\\users\\pichau\\onedrive\\documentos\\github\\projeto_escola\\projeto_escola\\pages\\organograma.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DE5732-5798-4FF2-8E3A-C1D5DB54A9D5}|Projeto_Escola.csproj|solutionrelative:pages\\organograma.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "organograma.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pichau\\OneDrive\\Documentos\\GitHub\\Projeto_Escola\\Projeto_Escola\\Pages\\organograma.cshtml",
+              "RelativeDocumentMoniker": "Pages\\organograma.cshtml",
+              "ToolTip": "C:\\Users\\Pichau\\OneDrive\\Documentos\\GitHub\\Projeto_Escola\\Projeto_Escola\\Pages\\organograma.cshtml",
+              "RelativeToolTip": "Pages\\organograma.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T02:08:42.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "localizacao.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pichau\\OneDrive\\Documentos\\GitHub\\Projeto_Escola\\Projeto_Escola\\Pages\\localizacao.cshtml",
+              "RelativeDocumentMoniker": "Pages\\localizacao.cshtml",
+              "ToolTip": "C:\\Users\\Pichau\\OneDrive\\Documentos\\GitHub\\Projeto_Escola\\Projeto_Escola\\Pages\\localizacao.cshtml",
+              "RelativeToolTip": "Pages\\localizacao.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T02:08:33.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "diferenciais.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pichau\\OneDrive\\Documentos\\GitHub\\Projeto_Escola\\Projeto_Escola\\Pages\\diferenciais.cshtml",
+              "RelativeDocumentMoniker": "Pages\\diferenciais.cshtml",
+              "ToolTip": "C:\\Users\\Pichau\\OneDrive\\Documentos\\GitHub\\Projeto_Escola\\Projeto_Escola\\Pages\\diferenciais.cshtml",
+              "RelativeToolTip": "Pages\\diferenciais.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T02:08:04.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contato.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pichau\\OneDrive\\Documentos\\GitHub\\Projeto_Escola\\Projeto_Escola\\Pages\\Contato.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Contato.cshtml",
+              "ToolTip": "C:\\Users\\Pichau\\OneDrive\\Documentos\\GitHub\\Projeto_Escola\\Projeto_Escola\\Pages\\Contato.cshtml",
+              "RelativeToolTip": "Pages\\Contato.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T00:51:09.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Pichau\\OneDrive\\Documentos\\GitHub\\Projeto_Escola\\Projeto_Escola\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Pichau\\OneDrive\\Documentos\\GitHub\\Projeto_Escola\\Projeto_Escola\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-06T23:57:42.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pichau\\OneDrive\\Documentos\\GitHub\\Projeto_Escola\\Projeto_Escola\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Pichau\\OneDrive\\Documentos\\GitHub\\Projeto_Escola\\Projeto_Escola\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T23:46:23.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "organograma.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\OneDrive\\Documentos\\GitHub\\Projeto_Escola\\Projeto_Escola\\Pages\\organograma.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\organograma.cshtml.cs",
+              "ToolTip": "C:\\Users\\Pichau\\OneDrive\\Documentos\\GitHub\\Projeto_Escola\\Projeto_Escola\\Pages\\organograma.cshtml.cs",
+              "RelativeToolTip": "Pages\\organograma.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wCUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T03:00:28.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

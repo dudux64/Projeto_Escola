@@ -78,7 +78,15 @@ header .navbar li a {
     font-size: 1rem; /* Ajuste o tamanho da fonte conforme necessário */
 }
 
+/* Texto Index Main */
 .texto {
-    font-size: 22px;
-    font-stretch: extra-condensed;
+    font-size: large;
+    font-family: Arial;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    color:black;
+}
+
+.container p-4{
+    background: black;
 }
